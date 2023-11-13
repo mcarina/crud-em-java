@@ -9,7 +9,6 @@ import java.util.List;
 import br.com.agenda.factory.ConnectionFactory;
 import br.com.agenda.model.Contato;
 
-//... (importações e código existente)
 
 import java.sql.Date; // Importe a classe Date do pacote java.sql
 
